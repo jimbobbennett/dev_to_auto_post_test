@@ -1,6 +1,6 @@
-![Internet of Tea Icon](../../img/iot/iotea/iotea-title.svg)
-
 # IoTea: Brewing an Azure flavored Home Supply Chain
+
+![Internet of Tea Icon](../../img/iot/iotea/iotea-title.svg)
 
 Large IoT applications can take many forms including smart buildings, digital agriculture or even smart cities, and implementing them can be daunting. Join Jim and Sam as they demystify some of this by overengineering a ‘simple’ home IoT project in these live coding sessions.
 
