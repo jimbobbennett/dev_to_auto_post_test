@@ -1,9 +1,10 @@
-# this Just IN
+Something something
+
+# this.Just.IN
 
 Live from Cloud City Seattle, this Just IN! This [Microsoft Reactor](https://www.youtube.com/channel/UCkm6luGCS3hD25jcEhvRMIA) series is for developers, entrepreneurs and enthusiasts that want to learn what's new and notable and stay up-to-date on the tools of the trade. Featuring guest speakers across Microsoft engineering and cloud advocacy. Come share your voice in this interactive, community-focused series.
 
 Livestreaming weekly at 8AM PT / 11AM ET / 4PM GMT at [MeetUp](https://www.meetup.com/Microsoft-Reactor-Redmond/) and [LearnTV](https://docs.microsoft.com/learn/tv/) and available on-demand on [YouTube](https://www.youtube.com/channel/UCkm6luGCS3hD25jcEhvRMIA) thereafter.
-
 
  Date | Title | Livestream | On-demand |Resources
 ---       | :---   | :--- | :--- | :---
