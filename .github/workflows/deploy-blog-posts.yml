@@ -23,7 +23,7 @@ jobs:
 
       - run: docker pull ghcr.io/jimbobbennett/auto-blog-poster:main
 
-      - run: docker run ghcr.io/jimbobbennett/auto-blog-poster:main
+      - run: docker run ghcr.io/jimbobbennett/auto-blog-poster:main --env DEV_TO_API_KEY=${{ secrets.DEV_TO_API_KEY }}
 
   # post_job:
   #   runs-on: ubuntu-latest
