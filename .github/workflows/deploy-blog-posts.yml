@@ -6,4 +6,4 @@ jobs:
     name: Deploy to Dev.to
     steps:
       - name: Run deploy tool
-        uses: ghcr.io/jimbobbennett/auto-blog-poster:main
+        uses: jimbobbennett/auto-blog-poster:main
