@@ -26,8 +26,8 @@ jobs:
       - run: >
           docker run ghcr.io/jimbobbennett/auto-blog-poster:main 
           --env DEV_TO_API_KEY=${{ secrets.DEV_TO_API_KEY }}
-          --env GITHUB_ACCESS_TOKEN=${{ secrets.GITHUB_TOKEN }}
-          --env REPO=jimbobbennett/dev_to_auto_post_test
+          GITHUB_ACCESS_TOKEN=${{ secrets.GITHUB_TOKEN }}
+          REPO=jimbobbennett/dev_to_auto_post_test
 
   # post_job:
   #   runs-on: ubuntu-latest
