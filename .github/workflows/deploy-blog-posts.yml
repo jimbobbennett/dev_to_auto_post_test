@@ -23,11 +23,11 @@ jobs:
 
       - run: docker pull ghcr.io/jimbobbennett/auto-blog-poster:main
 
-      - run: docker run auto-blog-poster
+      - run: docker run ghcr.io/jimbobbennett/auto-blog-poster:main
 
-  post_job:
-    runs-on: ubuntu-latest
-    name: Deploy to Dev.to
-    steps:
-      - name: Run deploy tool
-        uses: jimbobbennett/auto-blog-poster@main
+  # post_job:
+  #   runs-on: ubuntu-latest
+  #   name: Deploy to Dev.to
+  #   steps:
+  #     - name: Run deploy tool
+  #       uses: jimbobbennett/auto-blog-poster@main
