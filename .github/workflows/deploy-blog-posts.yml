@@ -7,5 +7,3 @@ jobs:
     steps:
       - name: Run deploy tool
         uses: jimbobbennett/auto-blog-poster@main
-        with:
-          workdir: '/app'
