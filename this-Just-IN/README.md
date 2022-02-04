@@ -1,4 +1,4 @@
-# TESTING this.Just.IN
+# this.Just.IN
 
 Live from Cloud City Seattle, this Just IN! This [Microsoft Reactor](https://www.youtube.com/channel/UCkm6luGCS3hD25jcEhvRMIA) series is for developers, entrepreneurs and enthusiasts that want to learn what's new and notable and stay up-to-date on the tools of the trade. Featuring guest speakers across Microsoft engineering and cloud advocacy. Come share your voice in this interactive, community-focused series.
 
